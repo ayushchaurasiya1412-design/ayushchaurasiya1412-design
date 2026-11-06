@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="assets/about.svg" width="100%" alt="About Ayush Chaurasiya" />
+<img src="assets/about.svg?v=2" width="100%" alt="About Ayush Chaurasiya" />
 
 <br/>
 
