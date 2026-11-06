@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 64" width="240" height="64" role="img" aria-label="LINKEDIN button">
+<title>LINKEDIN button</title>
+<rect width="240" height="64" fill="#0b0f1a" rx="32"/><rect x="6" y="6" width="228" height="52" rx="26" fill="#b6ff3b" fill-opacity="0.08" stroke="#b6ff3b" stroke-width="2"/><rect x="6" y="6" width="228" height="52" rx="26" fill="none" stroke="#b6ff3b" stroke-width="2"><animate attributeName="stroke-opacity" values="0.9;0.1;0.9" dur="2.4s" repeatCount="indefinite"/><animate attributeName="stroke-width" values="2;6;2" dur="2.4s" repeatCount="indefinite"/></rect><text x="45" y="40" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="800" fill="#b6ff3b">in</text><text x="142" y="38" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="2" fill="#b6ff3b">LINKEDIN</text>
+</svg>

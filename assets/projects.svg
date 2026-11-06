@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 380" width="1000" height="380" role="img" aria-label="Featured projects: SmartEduSystem, Nivaran and next project">
+<title>Featured projects: SmartEduSystem, Nivaran and next project</title>
+<defs>
+<linearGradient id="pg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff2e93"/><stop offset="0.55" stop-color="#ffb703"/><stop offset="1" stop-color="#b6ff3b"/></linearGradient>
+<radialGradient id="pm1" cx="0.12" cy="0.15" r="0.65"><stop offset="0" stop-color="#ff2e93" stop-opacity="0.38"/><stop offset="1" stop-color="#ff2e93" stop-opacity="0"/></radialGradient>
+<radialGradient id="pm2" cx="0.88" cy="0.9" r="0.6"><stop offset="0" stop-color="#b6ff3b" stop-opacity="0.22"/><stop offset="1" stop-color="#b6ff3b" stop-opacity="0"/></radialGradient>
+<radialGradient id="pm3" cx="0.72" cy="0.05" r="0.5"><stop offset="0" stop-color="#ffb703" stop-opacity="0.22"/><stop offset="1" stop-color="#ffb703" stop-opacity="0"/></radialGradient>
+<filter id="pglow" x="-20%" y="-30%" width="140%" height="160%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1000" height="380" rx="0" fill="#0b0f1a"/><rect width="1000" height="380" rx="0" fill="url(#pm1)"/><rect width="1000" height="380" rx="0" fill="url(#pm2)"/><rect width="1000" height="380" rx="0" fill="url(#pm3)"/>
+<text x="20" y="40" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="3" fill="#b6ff3b">03 // FEATURED.PROJECTS</text>
+<rect x="20" y="60" width="310" height="290" rx="16" fill="none" stroke="#ff2e93" stroke-width="5" filter="url(#pglow)" opacity="0.2"><animate attributeName="opacity" values="0.08;0.35;0.08" dur="3.6s" begin="0.0s" repeatCount="indefinite"/></rect>
+<rect x="20" y="60" width="310" height="290" rx="16" fill="#111729" stroke="#ff2e93" stroke-opacity="0.7" stroke-width="1.5"/>
+<text x="44" y="98" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="3" fill="#ff2e93">01 / PROJECT</text>
+<text x="44" y="140" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="800" fill="#e6e9f2">SmartEduSystem</text>
+<rect x="44" y="156" width="60" height="3" rx="1.5" fill="#ff2e93"/>
+<text x="44" y="190" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#e6e9f2" fill-opacity="0.85">A smart education management</text>
+<text x="44" y="214" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#e6e9f2" fill-opacity="0.85">platform that brings students,</text>
+<text x="44" y="238" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#e6e9f2" fill-opacity="0.85">courses and academics together.</text>
+<rect x="44" y="265" width="96" height="26" rx="13" fill="#ff2e93" fill-opacity="0.12" stroke="#ff2e93" stroke-opacity="0.6"/><text x="92.0" y="282" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#ff2e93">Full-Stack</text>
+<rect x="150" y="265" width="111" height="26" rx="13" fill="#ff2e93" fill-opacity="0.12" stroke="#ff2e93" stroke-opacity="0.6"/><text x="205.5" y="282" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#ff2e93">[EDIT] stack</text>
+<text x="44" y="326" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#8b93a7">↗ repo link · [EDIT]</text>
+<rect x="345" y="60" width="310" height="290" rx="16" fill="none" stroke="#b6ff3b" stroke-width="5" filter="url(#pglow)" opacity="0.2"><animate attributeName="opacity" values="0.08;0.35;0.08" dur="3.6s" begin="0.8s" repeatCount="indefinite"/></rect>
+<rect x="345" y="60" width="310" height="290" rx="16" fill="#111729" stroke="#b6ff3b" stroke-opacity="0.7" stroke-width="1.5"/>
+<text x="369" y="98" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="3" fill="#b6ff3b">02 / PROJECT</text>
+<text x="369" y="140" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="800" fill="#e6e9f2">Nivaran</text>
+<rect x="369" y="156" width="60" height="3" rx="1.5" fill="#b6ff3b"/>
+<text x="369" y="190" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#e6e9f2" fill-opacity="0.85">A full-stack platform built to</text>
+<text x="369" y="214" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#e6e9f2" fill-opacity="0.85">solve a real-world problem.</text>
+<text x="369" y="238" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#e6e9f2" fill-opacity="0.85">[EDIT: what Nivaran does]</text>
+<rect x="369" y="265" width="96" height="26" rx="13" fill="#b6ff3b" fill-opacity="0.12" stroke="#b6ff3b" stroke-opacity="0.6"/><text x="417.0" y="282" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#b6ff3b">Full-Stack</text>
+<rect x="475" y="265" width="111" height="26" rx="13" fill="#b6ff3b" fill-opacity="0.12" stroke="#b6ff3b" stroke-opacity="0.6"/><text x="530.5" y="282" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#b6ff3b">[EDIT] stack</text>
+<text x="369" y="326" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#8b93a7">↗ repo link · [EDIT]</text>
+<rect x="670" y="60" width="310" height="290" rx="16" fill="none" stroke="#ffb703" stroke-width="5" filter="url(#pglow)" opacity="0.2"><animate attributeName="opacity" values="0.08;0.35;0.08" dur="3.6s" begin="1.6s" repeatCount="indefinite"/></rect>
+<rect x="670" y="60" width="310" height="290" rx="16" fill="#111729" stroke="#ffb703" stroke-opacity="0.7" stroke-width="1.5"/>
+<text x="694" y="98" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="3" fill="#ffb703">03 / PROJECT</text>
+<text x="694" y="140" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="800" fill="#e6e9f2">Coming Soon</text>
+<rect x="694" y="156" width="60" height="3" rx="1.5" fill="#ffb703"/>
+<text x="694" y="190" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#e6e9f2" fill-opacity="0.85">The next build is in progress.</text>
+<text x="694" y="214" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#e6e9f2" fill-opacity="0.85">Stay tuned for what's coming.</text>
+<rect x="694" y="265" width="103" height="26" rx="13" fill="#ffb703" fill-opacity="0.12" stroke="#ffb703" stroke-opacity="0.6"/><text x="745.5" y="282" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#ffb703">Building...</text>
+<text x="694" y="326" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#8b93a7">↗ stay tuned</text>
+</svg>
